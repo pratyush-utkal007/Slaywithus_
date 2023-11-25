@@ -1,0 +1,7 @@
+/* footer */
+.footer {
+  background-image: url("./Images/bgf.png");
+  background-repeat: no-repeat !important;
+  background-size: cover;
+  background-position: center;
+}

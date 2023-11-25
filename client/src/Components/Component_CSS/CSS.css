@@ -1,0 +1,28 @@
+.sidebar {
+  background-image: url("../../Images/bg-left.jpg");
+  background-size: cover;
+  background-position: center;
+}
+.trxthomepage {
+  font-family: "PT Sans Narrow";
+}
+.aboutus {
+  font-family: "Cormorant Garamond";
+}
+
+.popup-fade {
+  animation-name: popup;
+  animation-duration: .8s;
+  animation-timing-function: ease-out;
+}
+
+@keyframes popup {
+  0% {
+    scale: 0;
+    opacity: 0;
+  }
+  100% {
+    scale: 1;
+    opacity: 1;
+  }
+}

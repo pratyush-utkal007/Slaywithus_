@@ -1,0 +1,1 @@
+It is based On"Virtual Fashionistas," who have pioneered the concept of "Virtual Styling" in India, driven by their passion for mixing and matching diverse outfits and providing solutions to the perennial question of "What to wear" and contributing to the creation of a fashionable nation.
